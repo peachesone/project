@@ -8,13 +8,13 @@ export default function Home() {
     <div className={styles.container}>
       <div className={styles.item}>
         <h1 className={styles.title}>
-          Better design for yout digital products.
+          Welcome to Korea Cardano Blockchain R&D Center
         </h1>
         <p className={styles.desc}>
-          Turning your Idea into Reality. We bring together the teams from the
-          global tech industry.
+        Thank you for visiting Korea cardano blockchain R&D center page.
+        Please access the exchange platform through the Explorer below.
         </p>
-        <Button url='/portfolio' text='버튼'/>
+        <Button url='/mainpage' text='버튼'/>
       </div>
       <div className={styles.item}></div>
       <Image src={Hero} alt='' className={styles.img}/>

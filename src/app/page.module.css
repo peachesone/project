@@ -7,7 +7,7 @@
 }
 
 .title {
-  @apply text-7xl bg-gradient-to-b from-green-700 to-gray-400 bg-clip-text text-transparent;
+  @apply text-7xl bg-gradient-to-b from-purple-700 to-gray-400 bg-clip-text text-transparent;
 }
 
 .img {

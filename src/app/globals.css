@@ -41,7 +41,7 @@ body {
 
 a{
   text-decoration: none;
-  color: inherit;
+  color: #111;
 }
 
 .container{
@@ -64,6 +64,6 @@ a{
 }
 
 .dark{
-  background-color: #111;
-  color:whitesmoke;
+  background-color: #ffffff;
+  color:rgb(0, 0, 0);
 }

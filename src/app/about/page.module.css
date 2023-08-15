@@ -10,7 +10,7 @@
 }
 
 .imgText {
-  @apply absolute bottom-5 left-5 bg-green-500 py-1 px-2 text-white;
+  @apply absolute bottom-5 left-5 bg-purple-500 py-1 px-2 text-white;
 }
 
 .textContainer {
